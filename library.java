@@ -9,7 +9,7 @@ import javax.swing.*;
  *                               https://docs.oracle.com/javase/tutorial/jdbc/basics/
  */
 
-public class MyGUI {
+public class library {
 
    private JFrame mainFrame;
    private JFrame initFrame;
